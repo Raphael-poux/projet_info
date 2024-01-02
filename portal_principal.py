@@ -1,5 +1,4 @@
 import pygame
-import random as rd
 
 # Création des différents types de surface sous forme de listes
 
@@ -193,8 +192,6 @@ def main():
         pygame.display.update()
             
     pygame.quit()
-
-
 
 # if python says run, then we should run
 if __name__ == "__main__":
